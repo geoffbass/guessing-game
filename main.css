@@ -1,0 +1,45 @@
+body, h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	text-align: center;
+	color: #D0D0D0;
+	font-family: Helvetica, serif;
+}
+
+.banner {
+	background: #0075B0;
+	color: #DD8000;
+	padding: 20px 0;
+	font: italic 60px Impact, sans-serif;
+	margin: 5px;
+	text-shadow: 2px 2px black;
+}
+
+.game {
+	height: 600px;
+	background: url(images/question-mark-background.jpg);
+	background-size: 100% 100%;
+	margin: 5px;
+	padding-top: 30px;
+}
+
+h2, h3, button {
+	margin-bottom: 15px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 18px;
+	margin-bottom: 40px;
+}
+
+h2.status {
+	color: red;
+}
