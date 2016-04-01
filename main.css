@@ -43,3 +43,11 @@ h3 {
 h2.status {
 	color: red;
 }
+
+#prize {
+	height: 200px;
+	width: auto;
+	border-radius: 5%;
+	display: block;
+	margin: 20px auto;
+}
