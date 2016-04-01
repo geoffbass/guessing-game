@@ -168,9 +168,6 @@ $(document).ready(function() {
 }());
 
 
-document.getElementById("18").addEventListener("click", squareWasClicked, false);
-
-
 
 
 
